@@ -1,0 +1,7 @@
+Modelo 3 - menor loss en la busqueda de hiperparametros:
+
+hidden_layer_1: 65
+hidden_layer_2: 130
+hidden_layer_3: 130
+dropout_1: 0.01
+learning_rate:0.0001

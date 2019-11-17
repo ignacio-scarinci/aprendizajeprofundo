@@ -1,0 +1,4 @@
+artifact_location: file:///home/fidel/Documentos/Diplodatos/AprendizajeProfundo/mlruns/5
+experiment_id: '5'
+lifecycle_stage: active
+name: Modelo 2

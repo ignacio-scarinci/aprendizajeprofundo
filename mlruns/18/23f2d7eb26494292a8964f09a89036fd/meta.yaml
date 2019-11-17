@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fidel/Documentos/Diplodatos/AprendizajeProfundo/mlruns/18/23f2d7eb26494292a8964f09a89036fd/artifacts
+end_time: 1573998905669
+entry_point_name: ''
+experiment_id: '18'
+lifecycle_stage: active
+name: ''
+run_id: 23f2d7eb26494292a8964f09a89036fd
+run_uuid: 23f2d7eb26494292a8964f09a89036fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1573998866863
+status: 3
+tags: []
+user_id: fidel

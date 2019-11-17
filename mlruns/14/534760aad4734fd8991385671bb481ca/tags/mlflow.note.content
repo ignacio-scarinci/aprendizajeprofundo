@@ -1,0 +1,7 @@
+Modelo 2 - mayor accuracy en la busqueda de hiperparametros:
+
+hidden_layer_1: 72
+hidden_layer_2: 125
+hidden_layer_3: 83
+dropout_1: 0.486
+learning_rate:0.000978

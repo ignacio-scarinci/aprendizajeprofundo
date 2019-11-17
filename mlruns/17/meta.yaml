@@ -1,0 +1,4 @@
+artifact_location: file:///home/fidel/Documentos/Diplodatos/AprendizajeProfundo/mlruns/17
+experiment_id: '17'
+lifecycle_stage: active
+name: Busqueda Hiperparametros -Modelo4

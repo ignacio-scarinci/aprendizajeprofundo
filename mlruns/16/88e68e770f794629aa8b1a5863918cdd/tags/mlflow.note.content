@@ -1,0 +1,10 @@
+Modelo 4 - mayor accuracy en la busqueda de hiperparametros:
+
+hidden_layer_1: 130
+hidden_layer_2: 65
+hidden_layer_3: 130
+hidden_layer_4: 130
+hidden_layer_5: 130
+dropout_1: 0.4999
+dropout_2: 0.01
+learning_rate:0.0001

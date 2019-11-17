@@ -1,0 +1,4 @@
+artifact_location: file:///home/fidel/Documentos/Diplodatos/AprendizajeProfundo/mlruns/15
+experiment_id: '15'
+lifecycle_stage: active
+name: Modelo 3-Optimo

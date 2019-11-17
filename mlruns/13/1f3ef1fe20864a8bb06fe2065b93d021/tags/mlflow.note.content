@@ -1,0 +1,4 @@
+Modelo 1 - mayor accuracy en la busqueda de hiperparametros:
+*  hidden_layer_1:65
+*  hidden_layer_2:65
+*  learning_rate:0.0001

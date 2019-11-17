@@ -1,0 +1,5 @@
+Modelo 1 - menor loss en la busqueda de hiperparametros:
+
+hidden_layer_1: 130
+hidden_layer_2: 65
+learning_rate: 0.0001
